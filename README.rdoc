@@ -1,1 +1,3 @@
 {<img src="https://codeclimate.com/github/vickodin/havegoal.png" />}[https://codeclimate.com/github/vickodin/havegoal]
+
+{<img src="https://travis-ci.org/vickodin/havegoal.png?branch=master" alt="Build Status" />}[https://travis-ci.org/vickodin/havegoal]
